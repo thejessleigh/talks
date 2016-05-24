@@ -128,7 +128,9 @@ Complex is better than complicated.
 
 ^ The best way to learn how to code is simply by doing it. Start by doing the first few lessons on Codecademy to get a feel for Python.
 
-^ Jump off of codecademy as soon as possible and try to build something small, like a command line flashcard game or a to-do list manager. The sooner you start building something on your own, the sooner you'll figure out if Python is clicking for you as a first language.
+^ Jump off of codecademy as soon as possible. Codecademy won't teach you how to set up a development environment or how to think for yourself.
+
+^ Try to build something small, like a command line flashcard game or a to-do list manager. The sooner you start building something on your own, the sooner you'll figure out if Python is clicking for you as a first language.
 
 ^ Never be afraid to ask for help. Stack Overflow, blogs, local Slack commuinites are all great resources for beginning developers
 
@@ -136,6 +138,6 @@ Complex is better than complicated.
 
 # Thank You
 <br><br>
-Slides and presenter notes available upon request 
+Slides and presenter notes available [on github](https://github.com/thejessleigh/talks/tree/master/python_talks/why_python)
 <br><br><br><br>
 [@JLUnrein](https://twitter.com/JLUnrein) | [jessunrein.com](http://jessunrein.com)
