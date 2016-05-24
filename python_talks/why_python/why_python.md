@@ -104,7 +104,9 @@ Complex is better than complicated.
 
 ## Getting a job in Python
 
-^ Plenty of opportunity in web development.
+^ Plenty of opportunity in web development. Python powerful enough to be used by organizations as large as Google and Nasa, and flexible enough to be a go-to back end language for web apps like Pinterest, Python, YouTube, and Facebook.
+
+^ Many Python engineers who work on large projects will interact with other languages like Java or Go, so getting a job in Python is a great way to start out, and might open doors to more low level programming in the future.
 
 ^ Great if you have a background in statistics - data science opportunities are growing all the time
 
