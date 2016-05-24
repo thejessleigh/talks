@@ -1,8 +1,9 @@
 # [fit] Why Python?
 
 ^ 
-Intended audience: people looking to get on the "Road to Code." Learn more about the origin of this talk at [General Assembly](https://generalassemb.ly/education/the-road-to-code/chicago/24393).
-Why should you consider Python for your first programming langauge?
+Intended audience: people who want to learn to code and wonder if Python is right for them.
+
+^ Overall purpose: Why should you consider Python for your first programming langauge?
 
 ---
 
