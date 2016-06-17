@@ -22,11 +22,6 @@
 ![inline](assets/TDP1.png)
 
 ---
-## Initial design continued
-
-![inline](assets/TDP2.png)
-
----
 
 ## Tests!
 
@@ -40,6 +35,12 @@
 - Visual redesign (Thanks Stephanie!)
 - Decided on next several lessons
 - Set next steps
+
+---
+
+## New design!
+
+![inline](assets/tdp_redesign.png)
 
 ---
 
