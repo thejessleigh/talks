@@ -56,7 +56,7 @@
 
 ## Links
 
-- These slides: [github.com/thejessleigh/talks](https://github.com/thejessleigh/talks/python_talks/tdp)
+- These slides: [github.com/thejessleigh/talks](https://github.com/thejessleigh/talks/tree/master/python_talks/tdp)
 - TDP Repo: [github.com/thejessleigh/test\_driven\_python](https://github.com/thejessleigh/test_driven_python)
 
 <br><br><br>
