@@ -37,7 +37,7 @@
 ## Conference accomplishments
 
 - Regained momentum on project
-- Styling help (Thanks Stephanie!)
+- Visual redesign (Thanks Stephanie!)
 - Decided on next several lessons
 - Set next steps
 
