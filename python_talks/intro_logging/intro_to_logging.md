@@ -176,12 +176,14 @@ handler.setFormatter(formatter)
 logger.setHandler(handler)
 
 logger.info("Helpful log message, id: {}".format(1))
+logger.error("{} error encountered on line {}".format(KeyError, 10))
 ```
 
 Output:
 
 ```python
-2016-07-29 16:39:59,313 - __main__ - INFO - Helpful logging message, id: 1
+2016-07-29 16:39:59,313 - __main__ - INFO - Helpful logging message, id: 1'
+2016-07-29 17:05:45,290 - __main__ - ERROR - <type 'exceptions.KeyError'> error encountered on line 10
 ```
 ^ Gives us a bit more information and enough information to have a better idea of what's going on.
 
@@ -216,6 +218,7 @@ handler = logging.RotatingFileHandler(path, maxBytes=20,
 
 #### Limits the maximum **size** of a logfile
 #### Optional backups appended with `*1.log`, `*2.log` etc
+#### This file rotates as it approaches 20 bytes and keeps 5 backups
 
 ---
 
@@ -229,7 +232,7 @@ handler = logging.TimedRotatingFileHandler(path,
 ```
 #### Limits the amount of **time** a log will stick around
 #### Available intervals -> secs, mins, hours, days, or weekdays (0-6)
-#### This log rotates the file every 2 days with 5 backup log files
+#### This file rotates every 2 days with 5 backup log files
 
 ---
 
