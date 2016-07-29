@@ -1,13 +1,11 @@
 # Python Logging
 ### A meditation on **silent** failures
 
----
+^ Quick intro: Jess Unrein. Platform Engineer with Sprout. Former bootcamp graduate and jazz pianist.
 
-Intro goes here
+^ The Zen of Python teaches us that errors should never pass silently. 
 
----
-
-# [fit] What is logging?
+^ Does not make a disticntion between errors and failures, which seems pretty important to me.
 
 ---
 
@@ -24,6 +22,14 @@ Intro goes here
 ## Shouldn't I just test my code?
 
 ^ Sure. In a perfect world where we all write perfect code. Why didn't I think of that?
+
+---
+
+# [fit] What is **logging**?
+
+^ Logging is record keeping for your app
+
+^ It gives critical information about errors you might see, behaviors you don't see but should, and gives you clues to detect problems that you might not otherwise run across.
 
 ---
 
