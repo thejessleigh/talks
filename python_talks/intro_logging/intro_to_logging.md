@@ -3,9 +3,22 @@
 
 ^ Quick intro: Jess Unrein. Platform Engineer with Sprout. Dev Bootcamp graduate and jazz pianist.
 
+---
+
+## Who is this talk for?
+
+^ This is a novice level talk for people who have never encountered logging or know that it's important but they're not sure where to start.
+
+---
+
+## Why logging?
+
+^ TDD is a hot button issue that many people talk passionately about. While testing is incredibly important for development, logging gets short shrift here. Logging is what make sure things in production work the way they should after you've released your application into the wild.
+
 ^ The Zen of Python teaches us that errors should never pass silently. 
 
 ^ Does not make a distinction between errors and failures, which seems pretty important to me.
+
 
 ---
 
@@ -58,9 +71,11 @@
 
 # **Anatomy** of a python logger
 
+^ What exactly can a logger do for you that printing can't?
+
 ---
 
-# Key logger functionality
+# Three key logger functions
 
 - Level
 - Handler
@@ -83,7 +98,7 @@
 - `ERROR`
 - `CRITICAL`
 
-^ Debug level logs might record how many database queries were executed in a batch so that if you start to see slow performance you have an idea of where to look.
+^ Debug level logs might record how many database queries were executed in a batch so that if you start to see slow performance you have an idea of where to look. Debug level logging should genereally only be turned on in development environments
 
 ^ Info level logs might be something that record events like user account registration or sending out push notifications. These are for transactions that you want to keep track of, but are expected
 
@@ -104,8 +119,33 @@
 
 ---
 
-## Handler
+### Handler
 
+```python
+import logging
+
+logger = logging.getLogger(__name__)
+logger.setLevel(logging.INFO)
+
+handler = logging.FileHandler("info.log")
+handler.setLevel(logging.INFO)
+
+logger.addHandler(handler)
+
+logger.info("Helpful logging message, id: {}".format(1))
+logger.error("{} error encountered on line {}".format(KeyError, 10))
+```
+
+Output:
+
+```python
+Helpful logging message, id: 1
+<type 'exceptions.KeyError'> error encountered on line 10
+```
+
+^ Handlers are how we separate different levels of logging information into the appropriate files.
+
+^ You can set a level to a handler and it will record log messages of that level **or above** to that file
 
 ---
 
@@ -119,7 +159,11 @@
 
 ---
 
-## Formatter
+## Formating
+
+^ Json logs are nice because other services can consume them and help you with monitoring.
+
+^ The downside to json logs is that they can be more difficult from a human-readability standpoint when you're searching through the logs on your own.
 
 ---
 
