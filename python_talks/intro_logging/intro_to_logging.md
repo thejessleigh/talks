@@ -157,9 +157,37 @@ Helpful logging message, id: 1
 
 ^ Unusual behaviors / anticipated edge cases
 
+^ The log messages we got before were fine, but they were little better than print statements. Without formatting we don't even necessarily know what level of logs we're getting at any given time.
+
+^ There might be general information we want for every logging statement that we don't want to write out every time we craft a logging call. This is where formatters come in.
+
 ---
 
-## Formating
+## Basic Formating
+
+```python
+import logging
+
+...
+
+formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+handler.setFormatter(formatter)
+
+logger.setHandler(handler)
+
+logger.info("Helpful log message, id: {}".format(1))
+```
+
+Output:
+
+```python
+2016-07-29 16:39:59,313 - __main__ - INFO - Helpful logging message, id: 1
+```
+^ Gives us a bit more information and enough information to have a better idea of what's going on.
+
+---
+
+## Advanced formatting
 
 ^ Json logs are nice because other services can consume them and help you with monitoring.
 
@@ -174,6 +202,34 @@ Helpful logging message, id: 1
 ^ Proper file handling and level setting can help mitigate this problem, but there can be too much of a good thing.
 
 ^ Log files can get big quick. They collect a lot of information, and especially with high volume apps this can get to be a problem. Compressing and archiving outdated log files will be necessary at some point, so make sure you start thinking about how to handle that situation early on.
+
+---
+
+## `RotatingFileHandler`
+
+```python
+import logging
+
+handler = logging.RotatingFileHandler(path, maxBytes=20,
+                                  backupCount=5)
+```
+
+#### Limits the maximum **size** of a logfile
+#### Optional backups appended with `*1.log`, `*2.log` etc
+
+---
+
+## `TimedRotatingFileHandler`
+
+```python
+handler = logging.TimedRotatingFileHandler(path,
+                                       when="d",
+                                       interval=2,
+                                       backupCount=5)
+```
+#### Limits the amount of **time** a log will stick around
+#### Available intervals -> secs, mins, hours, days, or weekdays (0-6)
+#### This log rotates the file every 2 days with 5 backup log files
 
 ---
 
