@@ -211,25 +211,42 @@ Output:
 ^ Just ideas, but there's a wealth of information you might be leaving on the table that could be critical to effectively debugging a problem.
 
 ---
-
 Creating your own formatter:
 
 ```python
-import logging
-import json
-
 class MyFormatter(logging.Formatter):
 	def format(self, record):
 		my_message = dict(
-			name = record.name,
-			timestamp = str(datetime.datetime.now()),
-			level = record.levelname,
-			message = record.msg,
+			name=record.name,
+			timestamp=str(datetime.datetime.now()),
+			level=record.levelname,
+			message=record.msg,
+			exc_info=record.exc_INFO,
+			pathname=record.pathname,
+			lineno=record.lineno,
 		)
 		return json.dumps(my_message)
 
-{"timestamp": "2016-07-28 14:01:24.420356", "message": "This is a helpful message", "name": "__main__", "level": "INFO"}
+logger.info("This is a helpful message.")
+
+{"pathname": "my_file.py", "name": "__main__", "level": "INFO", "timestamp": "2016-07-28 14:11:50.256488", "message": "This is a helpful message", "exc_info": null, "lineno": 30}
 ```
+
+---
+
+## `LogRecord`
+
+Availalbe Attributes:
+
+`name`
+`levelname`
+`levelno`
+`pathname`
+`lineno`
+`msg`
+`args`
+`exc_info`
+`func`
 
 ---
 
