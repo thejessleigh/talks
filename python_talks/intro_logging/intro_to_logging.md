@@ -189,11 +189,22 @@ Output:
 
 ---
 
-## Advanced formatting
+### Advanced formatting
+
+#### - External libraries
+#### - Subclassing **`logging.Formatter`**
+
+^ The logging messages we saw above are fine for glancing through, but when you get to a larger production environment you'll probably want to move to machine readable logs.
 
 ^ Json logs are nice because other services can consume them and help you with monitoring.
 
 ^ The downside to json logs is that they can be more difficult from a human-readability standpoint when you're searching through the logs on your own.
+
+^ There are several external libraries available that subclass `logging.Formatter` for you to return json logs. There are a few that are specifically designed to be compatible with logstash
+
+^ Things you might want: what server did the log statement originate from? Was there a logged in user when the event happened? Maybe you want to be able to add custom parameters for log statements, like a dictionary of parameters passed to a function. Something like this might help you keep track of sending too many notifications to a particular subset of users.
+
+^ Just ideas, but there's a wealth of information you might be leaving on the table that could be critical to effectively debugging a problem.
 
 ---
 
