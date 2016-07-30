@@ -13,7 +13,11 @@
 
 ## Why logging?
 
-^ TDD is a hot button issue that many people talk passionately about. While testing is incredibly important for development, logging gets short shrift here. Logging is what make sure things in production work the way they should after you've released your application into the wild.
+^ TDD is a hot button issue that many people talk passionately about. The first Python codebase I worked on had excellent test coverage. After I'd been working there for about six months our DevOps guy started getting really irritated that we thought that was sufficient, and asked me to get started on logging.
+
+^ When I asked what needed to be logged he just told me, "You know, the important stuff." It can be difficult to figure out exactly what that means when you're just starting out.
+
+^ While testing is incredibly important for development, logging gets short shrift here. Logging is what make sure things in production work the way they should after you've released your application into the wild.
 
 ^ The Zen of Python teaches us that errors should never pass silently. 
 
