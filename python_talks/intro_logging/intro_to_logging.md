@@ -17,7 +17,7 @@
 
 ^ When I asked what needed to be logged he just told me, "You know, the important stuff." It can be difficult to figure out exactly what that means when you're just starting out.
 
-^ While testing is incredibly important for development, logging gets short shrift here. Logging is what make sure things in production work the way they should after you've released your application into the wild.
+^ 	While testing is incredibly important for development, logging gets short shrift here. Logging is what make sure things in production work the way they should after you've released your application into the wild.
 
 ^ The Zen of Python teaches us that errors should never pass silently. 
 
@@ -209,6 +209,27 @@ Output:
 ^ Things you might want: what server did the log statement originate from? Was there a logged in user when the event happened? Maybe you want to be able to add custom parameters for log statements, like a dictionary of parameters passed to a function. Something like this might help you keep track of sending too many notifications to a particular subset of users.
 
 ^ Just ideas, but there's a wealth of information you might be leaving on the table that could be critical to effectively debugging a problem.
+
+---
+
+Creating your own formatter:
+
+```python
+import logging
+import json
+
+class MyFormatter(logging.Formatter):
+	def format(self, record):
+		my_message = dict(
+			name = record.name,
+			timestamp = str(datetime.datetime.now()),
+			level = record.levelname,
+			message = record.msg,
+		)
+		return json.dumps(my_message)
+
+{"timestamp": "2016-07-28 14:01:24.420356", "message": "This is a helpful message", "name": "__main__", "level": "INFO"}
+```
 
 ---
 
