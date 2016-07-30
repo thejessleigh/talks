@@ -214,6 +214,10 @@ Output:
 
 ^ Proper file handling and level setting can help mitigate this problem, but there can be too much of a good thing.
 
+^ Your logging is excessive if it's significantly slowing down your processes or you can't find the information you need to in a reasonable amount of time. I know that's vague but logging really boils down to what's helpful for you.
+
+^ Re: noisy logs. Sometimes it's useless until it suddnely isn't. Leveling is important. When in doubt, put in the debug logs.
+
 ^ Log files can get big quick. They collect a lot of information, and especially with high volume apps this can get to be a problem. Compressing and archiving outdated log files will be necessary at some point, so make sure you start thinking about how to handle that situation early on.
 
 ---
