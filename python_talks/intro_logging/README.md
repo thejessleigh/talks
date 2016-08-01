@@ -1,6 +1,6 @@
 # Python Logging: A meditation on silent failures
 
-### 30-45 minutes
+### 25-35 minutes
 
 ### Abstract:
 
