@@ -13,3 +13,5 @@ Resume writing can be intimidating. Many people don't want to brag about themsel
 This talk proposes using fanficiton techniques to narrativize your work experience and hobbies to create a professional yet interesting presence when reaching out to recruiters and hiring managers.
 
 This talk is appropirate for all levels, but is specifically aimed at career changers. My goal is to make the tech job search seem more accessible and achievable for people from diverse education and work backgrounds, especially women and underrepresented minorities in the industry.
+
+Shortlink to this talk's directory on github: goo.gl/dXYktI
