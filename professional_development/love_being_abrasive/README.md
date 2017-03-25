@@ -1,6 +1,6 @@
 # Nasty Woman or: How I Learned to Stop Worrying and Love Being Abrasive
 
-### This talk is available as a 7 minute lightning talk or a 20 minute conferece talk
+### This talk is available as a 5-7 minute lightning talk or a ~20 minute conferece talk
 
 ### Abstract: 
 
