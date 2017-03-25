@@ -8,9 +8,11 @@
 
 ^ Most of the men I talked to said "Wow, cool talk title."
 
-^ And this is kind of the core of the problem, right? Abrasive is a word that doesn't have a consistent meaning and is used primarily to shame women for speaking on behalf of themselves. And I used to be *terrified* of being perceived as abrasive. I was mortified when a couple of my former coworkers referred to me as "uppity".
+^ And this is kind of the core of the problem, right? A lot of people don't even interrogate why or how terms like this are used, and what their implications might be. And if you *do* think about it, it's probably because you've been called it or affected by a double standard that makes you think twice about the way we refer to people.
 
-^ Talk about the story of your SG interview and how it was related by a DBC classmate to the interviewers that I'm uppity, and it was seen as a charming quirk by the interviewers, so they decided to give me a shot.
+^ Abrasive is a word that doesn't have a consistent meaning and is used primarily to shame women for speaking on behalf of themselves. And I used to be *terrified* of being perceived as abrasive. I was mortified when a couple of my former coworkers referred to me as "uppity".
+
+^ Talk about the story of my interview for my first tech job and how it was related by a DBC classmate to the interviewers that I'm uppity, and it was seen as a charming quirk by the interviewers, so they decided to give me a shot.
 
 ---
 
