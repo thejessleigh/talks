@@ -91,3 +91,8 @@
 
 ^ Failure is part of growing. I would never have learned or changed if I hadn't been burned over and over again. And that's what I hope for all of you. That the times when it gets to be too much help teach you your limits and illuminate the path forward to embracing the things that make you different. There are people out there like you. You don't have to bear every defeat or disapointment alone. Let's be abrasive together.
 
+---
+
+# Thank You!
+
+^ Thanks for coming out to see us speak tonight. I can't wait to hear everyone else. Remember, if you'd like to follow up with me, I'll be around after the talks and I'll be watching the #DBCWomensDay hashtag for the next 24 hours or so.
