@@ -315,6 +315,6 @@ handler = logging.TimedRotatingFileHandler(path,
 
 # Thank You
 <br><br>
-Slides and presenter notes available [on github](https://github.com/thejessleigh/talks/tree/master/python_talks/intro_logging)
+Slides and presenter notes available at [http://tiny.cc/python_logging](http://tiny.cc/python_logging)
 <br><br><br><br>
 [@JLUnrein](https://twitter.com/JLUnrein) | [jessunrein.com](http://jessunrein.com)
