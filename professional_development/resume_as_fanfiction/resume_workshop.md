@@ -150,12 +150,6 @@ Round 3: Choose 1 to write about
 
 ---
 
-# Bio Break
-
-^ Let's add a short break in here for bathroom, streching, smokers.
-
----
-
 ## What about my resume?
 
 ^ Show Jess's resume here. Talk about bits that were taken out of the fanfiction samples made their way into bullet points.
