@@ -20,11 +20,13 @@ footer: \#codeland | @JLUnrein
 
 ^ A resume that has interesting highlights and will pass the 6 second threshold.
 
+^ This should be the 5 minute point in the workshop
+
 ---
 
 #[fit] Fanfiction basics
 
-^ This section is for basic definition of terms - 10 to 15 minutes
+^ This section is for basic definition of terms
 
 ^ What is fanfiction? Fanfiction is a broad term for fan created works that reference an existing body of work. For example, Harry Potter fanfiction references the Harry Potter books. Within the fandom, it's referenat body of work is called "The Canon."
 
@@ -41,6 +43,8 @@ footer: \#codeland | @JLUnrein
 ^ Refer to booklet: Canon Compliant John Watson monologue snippet
 
 ^ More info: https://fanlore.org/wiki/Canon_Compliant
+
+^ approx 10 minutes in
 
 ---
 
@@ -71,31 +75,7 @@ footer: \#codeland | @JLUnrein
 
 ^ http://www.vulture.com/2015/03/bizarre-unsolved-mystery-of-my-immortal.html
 
----
-
-STOP FLAMMING DA STORY PREPZ
-
-^ Words to live by. This girl can't spell, can use grammar, but she has confidence that I can only ever dream of having.
-
-^ STOP FLAMMING DA STORY is pretty much how you should approach negative criticism when you're looking at building yourself up and touting your accomplishments. Resume writing can be stressful for a lot of people, especially if you were raised not to brag about yourself. But haters are just prepz who are flamming your narrative. If the author of this story can put her work out there without fear of repucussion, so can you.
-
----
-
-fangs 2 da goffik ppl 4 da good reveiws!
-
-^ Start thinking of da goffik ppl when you think about what you've accomplished in the past. You want to figure out what you've been doing right, take positive feedback into account, try to do more of it, and highlight it as much as you can in any bullet points on your resume.
-
----
-
-Put your money where your mouth is
-
-^ So it's all well and good to talk about other people's bad writing and how it might be virtuous, but it's only valuable if I'm willing to share my weird, stream of consciousness fanfic of my own life.
-
-^ This is where we tie things in together. Everything you're about to read is canon compliant. Someone who's telling you the canonical story of my life probably wouldn't include these details, but they're the deleted scenes from my own timeline. They helped me put to words how I think about myself. I'm the hero in my own story. I'm my own Mary Sue.
-
-^ Reference material: Jess's fanfiction samples
-
-^ Let's go over project at last job, nicest thing a good friend said, and math in elementary school.
+^ Approx 15 miuntes in
 
 ---
 
@@ -110,6 +90,8 @@ Put your money where your mouth is
 ^ We're going to have a couple breakouts here. You'll have an opportunity to write your own pieces of fanfiction about yourselves based on plot bunnies.
 
 ^ After you finish your writing samples, I'd like to ask you to sumbit your samples to an anonymous google form to go over with the group. You will not be identified, and this is completely voluntary. But it would be nice to get examples from the group we can talk about and figure out how to highlight potential resume bullet points from.
+
+^ Approx 17 miuntes in
 
 ---
 
@@ -128,6 +110,55 @@ Round 1: Choose 1 to write about
 
 ^ After 10 minutes are done ask to submit to anonymous google form
 
+^ Approx 30 minutes in
+
+---
+
+## STOP FLAMMING DA STORY PREPZ
+
+### :fire: :fire: :fire:
+
+^ Words to live by. This girl can't spell, can use grammar, but she has confidence that I can only ever dream of having.
+
+^ STOP FLAMMING DA STORY is pretty much how you should approach negative criticism when you're looking at building yourself up and touting your accomplishments. Resume writing can be stressful for a lot of people, especially if you were raised not to brag about yourself. But haters are just prepz who are flamming your narrative. If the author of this story can put her work out there without fear of repucussion, so can you.
+
+---
+
+## fangs 2 da goffik ppl 4 da good reveiws!
+
+### :sparkling_heart:
+
+^ Start thinking of da goffik ppl when you think about what you've accomplished in the past. You want to figure out what you've been doing right, take positive feedback into account, try to do more of it, and highlight it as much as you can in any bullet points on your resume.
+
+^ Approx 32 minutes in
+
+---
+
+# Beta reading!
+
+## Round 1
+
+^ Beta reading is a practice where authors release their fiction to a small group of test readers for feedback and refinement. It's actually a term that originates in software and has been repurposed for fandom!
+
+^ Now that we've all had a chance to write about one of the questions, and hopefully some people have submitted, let's spend 10 minutes chatting in small groups about some anonymized samples. Pick out 2-3 bullet points from each narrative sample that you think could make a good trait on a resume.
+
+^ ~ 42 miuntes in
+
+---
+
+
+## Put your money where your mouth is
+
+^ So it's all well and good to talk about other people's personal writing and how it might help create narratives and build strengths, but it's only valuable if I'm willing to share my weird, stream of consciousness fanfic of my own life.
+
+^ This is where we tie things in together. Everything you're about to read is canon compliant. Someone who's telling you the canonical story of my life probably wouldn't include these details, but they're the deleted scenes from my own timeline. They helped me put to words how I think about myself. I'm the hero in my own story. I'm my own Mary Sue.
+
+^ Reference material: Jess's fanfiction samples
+
+^ Let's go over project at last job, nicest thing a good friend said, and math in elementary school.
+
+^ ~52 miuntes in
+
 ---
 
 Round 2: Choose 1 to write about
@@ -140,13 +171,13 @@ Round 2: Choose 1 to write about
 
 ---
 
-Round 3: Choose 1 to write about
+# Beta Reading! 
 
-- What's the dumbest thing you've ever said in an interview?
-- Did you think you were good at math in elementary school? Why or why not?
-- What's an activity or skill you stopped doing and wish you'd kept up with?
+## Round 2
 
-^ After 10 minutes are done ask to sumbit to anonymous google form
+^ Spend 10 minutes in small groups again identifiying a couple bullet points from each writing sample assigned to the group
+
+^ ~72 minutes in
 
 ---
 
@@ -158,9 +189,31 @@ Round 3: Choose 1 to write about
 
 ^ Reference material: Jess's resume
 
+^ ~80 minutes in
+
 ---
 
-## 6 second test? :clock:
+Final Round: Choose 1 to write about
+
+- What's the dumbest thing you've ever said in an interview?
+- Did you think you were good at math in elementary school? Why or why not?
+- What's an activity or skill you stopped doing and wish you'd kept up with?
+
+^ After 10 minutes are done ask to sumbit to anonymous google form
+
+^ ~90 minutes
+
+---
+
+# Beta Reading!
+
+## Final Round
+
+^ ~100 minutes
+
+---
+
+## 6 second test? :watch:
 
 ^ Probably apocryphal but it's the notion that your resume has about 6 second to make a good impression on a hiring manager or recruiter before they decide whether or not to go further with it.
 
@@ -168,13 +221,20 @@ Round 3: Choose 1 to write about
 
 ^ If there are skills that I acquired at those jobs that inform how I do my work, then I can find bullet points to add to relevant job experience and don't need to include those.
 
+^ ~103 miuntes
+
 ---
 
-## Let's see your work
+# Large Group Beta Round!
 
-^ Exit slide presentation for a bit to check out participant writing samples with the group. Possibly small group breakouts and come back together with strongest examples? Or we could do it all as one big group. Might ask for preferences from participants.
+#### (I lied about being done with beta reading. You're never done :smile: )
+
+
+^ At this point we've seen a bunch of writing samples and you saw how I was able to work things from my narratives into my resume. Let's spend a bit of time looking at your favorite examples from the previous beta reading sessions and talk about the bullet points you were able to extract.
 
 ^ 20-30 minutes for chatting?
+
+^ ~125 miuntes
 
 ---
 
@@ -188,15 +248,19 @@ Round 3: Choose 1 to write about
 
 ^ 10 - 15 minutes
 
+^ 140 miuntes
+
 ---
 
 # Cleanup
 
-^ Let's look at some participant examples of resume submissions. Discuss as a group how well the participant did, if there are places that aren't clear enough, could use more concrete examples, or could be tightened up a bit.
+^ Let's look at some participant examples of resume submissions as a big group. Discuss as a group how well the participant did, if there are places that aren't clear enough, could use more concrete examples, or could be tightened up a bit.
 
 ^ Talk about bullet points that come up that might need to be removed.
 
 ^ Idea: at this point maybe Jess can show an older version of her resume with a lot of flab that was cut down to the existing version?
+
+^ 160 minutes
 
 ---
 
@@ -204,11 +268,16 @@ Round 3: Choose 1 to write about
 
 ^ Reserve time at the end for informal q&a/chat. 10 -15 min?
 
+^ ~175 minutes
+
 ---
 
 # Thank you!
 
-### Link to notes (tbd)
+### Find this presentation on github at
+
+###[tiny.cc/resume\_as\_fanfic](http://tiny.cc/resume_as_fanfic)
 
 ^ Reminder that if any questions come up after workshop, participants can always tweet at me. I'm pretty active and responsive on Twitter.
 
+^ ~ 180 minutes
