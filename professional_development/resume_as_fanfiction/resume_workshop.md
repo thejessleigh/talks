@@ -213,6 +213,12 @@ Final Round: Choose 1 to write about
 
 ---
 
+# Bio Break
+
+^ 10 ish minutes
+
+---
+
 ## 6 second test? :watch:
 
 ^ Probably apocryphal but it's the notion that your resume has about 6 second to make a good impression on a hiring manager or recruiter before they decide whether or not to go further with it.
