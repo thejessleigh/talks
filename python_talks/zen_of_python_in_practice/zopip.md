@@ -188,4 +188,4 @@ footer: \#CoderConference | @JLUnrein
 
 # Thank you!
 
-### Slides available at [github.com/thejessleigh/talks](https://github.com/thejessleigh/talks)
+### Slides available at [tiny.cc/zopip](https://tiny.cc/zopip)
