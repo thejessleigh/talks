@@ -1,6 +1,6 @@
 # The Zen of Python In Practice: Balancing Idealism with Production Concerns
 
-### 45-55 minutes
+### 35-45 minutes
 
 ### Abstract:
 

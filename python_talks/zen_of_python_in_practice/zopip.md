@@ -1,5 +1,3 @@
-footer: \#CoderConference | @JLUnrein
-
 # **The Zen of Python in Practice**
 
 ## Balancing Idealism With Production Concerns
