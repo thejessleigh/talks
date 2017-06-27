@@ -4,7 +4,7 @@ footer: \#CoderConference | @JLUnrein
 
 ## Balancing Idealism With Production Concerns
 
-^ My name is Jess Unrein and I'll be talking to you today about the difference between thinkig you've internalized best practices and standards, and then having to live out in the wild with long running code.
+^ My name is Jess Unrein and I'll be talking to you today about the difference between thinking you've internalized best practices and standards, and then having to live out in the wild with long running code.
 
 ^ Intended audience - anyone who has ever worked in Python or wants to work in Python. This talk will hopefully be accessible to beginners but resonate with people who have worked with Python in production before.
 
@@ -84,13 +84,11 @@ footer: \#CoderConference | @JLUnrein
 
 ^ This is the second time you've tried to do something clever and clean to make things better, and it just keeps on not working out for you.
 
----
-
-Insert third example here
+^ *If time permits here, talk about flat is better than nested and balancing creating single use helper functions versus having large nested functions.*
 
 ---
 
-# What do?
+# What now?
 
 ^ So you kept trying to do the Technically Right Thing and you got shot down every time. Does this mean that advice and standards are all BS? That you shouldn't try? Is everything terrible forever and we're all doomed to Legacy Code Hell? Heck no.
 
