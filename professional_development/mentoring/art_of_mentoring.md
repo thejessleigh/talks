@@ -29,15 +29,6 @@ theme: Sketchnote, 2
 
 ---
 
-## Recognizing potential mentors
-
-^ One of the hardest things to learn is how to identify when you're in a mentorship to begin with. Especially when we're coaching new developers about what to look for, I think we tend to err on the side of talking about mentorships extremely formally. And when we give the advice of "go get a mentor" the prospect of doing so can seem oddly formal and stilted. I don't generally walk up to people I admire and would like to be friends with that I'm explicitly looking for friendship and would be interested in pursing that with them. That would be stilted and weird.
-
-^ If you've never embarked on finding a mentor before, the process of doing this same thing to people you professionally admire can seem equally stilted and weird. And if you're just starting up in Python, you might not even necessarily know where to look to find mentors.
-
-
----
-
 # What is a mentor then?
 
 Someone who helps give you an honest assesment of your capabilities, who will assist you within reason, and keep you accountable to your goals.
@@ -89,29 +80,21 @@ A mentor is not your partner and a mentor is not necessarily your sponsor.
 
 ---
 
+## Recognizing potential mentors
+
+^ One of the hardest things to learn is how to identify when you're in a mentorship to begin with. Especially when we're coaching new developers about what to look for, I think we tend to err on the side of talking about mentorships extremely formally. And when we give the advice of "go get a mentor" the prospect of doing so can seem oddly formal and stilted. I don't generally walk up to people I admire and would like to be friends with that I'm explicitly looking for friendship and would be interested in pursing that with them. That would be stilted and weird.
+
+^ If you've never embarked on finding a mentor before, the process of doing this same thing to people you professionally admire can seem equally stilted and weird. And if you're just starting up in Python, you might not even necessarily know where to look to find mentors.
+
+
+---
+
 # Bad mentorship candidates
 
 - Family
 - Roommates
 - Romantic Partners
 - Anyone with whom you have a financial relationship
-
----
-
-## Warning signs: just like any other relationship, mentorships can become toxic
-
-- Scheduling difficulties
-- Breaking promises
-- Guilt
-- Disagreements about commitment
-
-^ If this is beginning to sound a little bit like a relationship talk, that's becuase it is. Mentoring is a relationship and can go sour just as much as any other relationship.
-
-^ Specifically because there is a power imbalance baked into the format of this relationship, it can be a very difficult to walk. This is why you don't want to increase the pressure of that relationship. As a mentee, you should not feel guilty regarding the state of your mentorship. And if you find yourself breaking promises or having difficulty justifying mentoring appointments in your schedule these may be warning signs that you have overcommitted in order to keep this relationship afloat *or* that your mentor is making unreasonable asks and has unrealistic expectations of your abilities.
-
-^ In general you should be looking for mentors who you think have the ability to make you a better version of yourself. You should be doing this for yourself and not for them. The primary goal of a mentorship is *not* gaining your mentor's approval or regard. If you find that you have entered into that territory, you're breaking a emotional boundary that will prevent you from growing and learning from this experience.
-
-^ Why is it important to prevent this kind of emotional breach? Because coding work is hard, and emotional labor is hard, and being a mentee probably involves both. Tech has fairly high attrition rates as compared to other industries, and women leave tech at twice the rate that men do. This is important because diversity of viewpoints and skillsets is absolutely necessary for our industry to keep growing and making products that impact people's lives. If you aren't able to maintain professional boundaries with your mentors, you're more likely to burn out and become an attrition statistic, which is something that hopefully everyone in this room wants to avoid.
 
 ---
 
@@ -147,6 +130,33 @@ A mentor is not your partner and a mentor is not necessarily your sponsor.
 
 ---
 
+## Warning signs: just like any other relationship, mentorships can become toxic
+
+- Scheduling difficulties
+- Breaking promises
+- Guilt
+- Disagreements about commitment
+
+^ If this is beginning to sound a little bit like a relationship talk, that's becuase it is. Mentoring is a relationship and can go sour just as much as any other relationship.
+
+^ Specifically because there is a power imbalance baked into the format of this relationship, it can be a very difficult to walk. This is why you don't want to increase the pressure of that relationship. As a mentee, you should not feel guilty regarding the state of your mentorship. And if you find yourself breaking promises or having difficulty justifying mentoring appointments in your schedule these may be warning signs that you have overcommitted in order to keep this relationship afloat *or* that your mentor is making unreasonable asks and has unrealistic expectations of your abilities.
+
+^ In general you should be looking for mentors who you think have the ability to make you a better version of yourself. You should be doing this for yourself and not for them. The primary goal of a mentorship is *not* gaining your mentor's approval or regard. If you find that you have entered into that territory, you're breaking a emotional boundary that will prevent you from growing and learning from this experience.
+
+^ Why is it important to prevent this kind of emotional breach? Because coding work is hard, and emotional labor is hard, and being a mentee probably involves both. Tech has fairly high attrition rates as compared to other industries, and women leave tech at twice the rate that men do. This is important because diversity of viewpoints and skillsets is absolutely necessary for our industry to keep growing and making products that impact people's lives. If you aren't able to maintain professional boundaries with your mentors, you're more likely to burn out and become an attrition statistic, which is something that hopefully everyone in this room wants to avoid.
+
+---
+
+# YOU have to ask, they won't come to you.
+
+^ So you've done your research, identified people that you'd like to work with and can help you out with specific, actionable requests, and who seem like they're out in the community a bit and might like to talk to you. What do you do?
+
+^ You have to be a bit brave. You have to ask. Figure out public conversation streams that they are most active on (twitter, meetups, etc.) and ask them questions. If you have more than one or two questions, maybe say something like "I have a few things to ask, is it okay if I take up some of your time?"
+
+^ It's your responsibility as the potnetial mentee to initiate the conversation. It's also your responsibility to be okay with it if the answer is no. It doesn't necessarily mean you aren't worth helping or anything (I know I fall into this trap sometimes when approaching people I admire). Them saying no probably has nothing to do with you. You need to be able to accept that answer gracefully and you should not pester them with subsequent asks.
+
+---
+
 # Why should I have a mentee?
 
 ^ Purely altruistic reasons, because it's the right thing to do - pass along your knowledge so that other people can benefit from it right? Uh. Not exactly. I'll talk a bit about this later, but I don't believe in doing things for purely altruistic reasons.
@@ -166,9 +176,19 @@ A mentor is not your partner and a mentor is not necessarily your sponsor.
 - Shutting down rabbit hole excursions
 - Admitting ignorance and vulnerability
 
-# Your primary responsiblity as a mentor is to ask questions and provide honest critical feedback. You might have to be blunt, and this is exactly why a measure of professional distance is necessary to do the job effectively.
+^ Your primary responsiblity as a mentor is to ask questions and provide honest critical feedback. You might have to be blunt, and this is exactly why a measure of professional distance is necessary to do the job effectively.
 
 ^ It's also a good idea for you to learn how to exhibit vulnerabilty in front of your mentee.
+
+---
+
+# How do I show that I'm available as a mentor?
+
+^ Like we talked about earlier, seeking out mentorship is the mentee's responsbility. They need to ask for help when they need it. But there are things you can do to position yourself as someone who is able to help.
+
+^ Be active on Twitter, irc, or appropriate slack channels in your area of expertise. Go to or organize meetups. When you're out in the community, initiate conversations with people you don't know. It's really the same advice I would give anyone looking to network. Once you develop a solid enough network with people from a variety of backgrounds, people will feel comfortable coming to you as a leader in the community.
+
+^ I know that it's easier said than done, but remember that mentorships might be informal and short lived. This is okay, it's healthy, and participating in those smaller, shorter mentorships will help lay the foundation for you to become a better, more confident mentor as you gain experience.
 
 ---
 
@@ -219,6 +239,8 @@ A mentor is not your partner and a mentor is not necessarily your sponsor.
 
 # Thank you
 
-## @JLUnrein | jessunrein.com
+## [@JLUnrein](https://twitter.com/JLUnrein) | [jessunrein.com](https://jessunrein.com)
 
-### link to slides here
+### [tiny.cc/pyohio-mentoring](http://tiny.cc/pyohio-mentoring)
+
+^ Now that we've left on what I hope is both a high and a low note, thanks for coming to my talk. I'm happy to take questions, and I hope maybe you've identified some arrangements in your life that are mentorships and how to get the most out of them.
